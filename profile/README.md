@@ -1,4 +1,4 @@
-<img src="https://roseto.dev/logo.svg" width="200" height="200" align="left" />
+<img src="https://roseto.dev/logo.svg" width="120" height="120" align="left" />
 
 ### **Roseto**
 
